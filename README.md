@@ -8,8 +8,7 @@
 
 
   <div align="center">
-  <a href="https://discord.com/users/772461636065034240" target="_blank">
-  <img src="https://lanyard.cnrad.dev/api/772461636065034240"> 
+  [![Discord Presence](https://lanyard.cnrad.dev/api/772461636065034240)](https://discord.com/users/772461636065034240) 
 </a>
    </div>
 
